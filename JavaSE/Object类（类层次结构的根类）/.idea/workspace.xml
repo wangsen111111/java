@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f0520b4-0a3e-4228-a1bf-32fdb7d827e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jUzmqO3WYBTZCFfuCiMvenabKG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/1813024293/FileRecv/chessClient" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="应用程序.String练习">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Object类（类层次结构的根类）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String练习" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.String练习" />
+      <module name="Object类（类层次结构的根类）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String类1" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.String类1" />
+      <module name="Object类（类层次结构的根类）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuffer类" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.StringBuffer类" />
+      <module name="Object类（类层次结构的根类）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuffer类练习" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.StringBuffer类练习" />
+      <module name="Object类（类层次结构的根类）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Student" />
+      <module name="Object类（类层次结构的根类）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.String练习" />
+      <item itemvalue="应用程序.String类1" />
+      <item itemvalue="应用程序.Main" />
+      <item itemvalue="应用程序.Student" />
+      <item itemvalue="应用程序.StringBuffer类" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.StringBuffer类" />
+        <item itemvalue="应用程序.Student" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.String类1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f0520b4-0a3e-4228-a1bf-32fdb7d827e7" name="Default Changelist" comment="" />
+      <created>1603873619576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603873619576</updated>
+      <workItem from="1603873624369" duration="5330000" />
+      <workItem from="1603890486592" duration="2649000" />
+      <workItem from="1603931763403" duration="1582000" />
+      <workItem from="1603937911320" duration="6000" />
+      <workItem from="1603962359651" duration="50000" />
+      <workItem from="1603962436763" duration="4794000" />
+      <workItem from="1603973336099" duration="131000" />
+      <workItem from="1603983066430" duration="2544000" />
+      <workItem from="1604017225858" duration="7561000" />
+      <workItem from="1604047486293" duration="1561000" />
+      <workItem from="1604060511129" duration="5838000" />
+      <workItem from="1604071499022" duration="2267000" />
+      <workItem from="1604103858286" duration="275000" />
+      <workItem from="1604106277108" duration="9298000" />
+      <workItem from="1604129607057" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="24" key="#com.intellij.ide.util.MemberChooser" timestamp="1603891344511">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="695" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1603891344511" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1604129672883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604129672883" />
+    <state width="574" height="120" key="GridCell.Tab.0.bottom" timestamp="1604116742479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="574" height="120" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604116742479" />
+    <state width="574" height="120" key="GridCell.Tab.0.center" timestamp="1604116742479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="574" height="120" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604116742479" />
+    <state width="574" height="120" key="GridCell.Tab.0.left" timestamp="1604116742479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="574" height="120" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604116742479" />
+    <state width="574" height="120" key="GridCell.Tab.0.right" timestamp="1604116742479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="574" height="120" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604116742479" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1603973467445">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603973467445" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1603973467445">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1603973467445" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1603973467445">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1603973467445" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1603973467445">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1603973467445" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1604129606268">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604129606268" />
+    <state x="621" y="154" key="run.anything.popup" timestamp="1604110726795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="621" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1604110726795" />
+    <state x="553" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604109835992">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="553" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604109835992" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Scanner类.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
